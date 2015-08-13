@@ -1,0 +1,6 @@
+name: HoverChat
+description: Simple
+version: 1.0
+author: CommandCraft
+depend: [Vault]
+main: me.commandcraft.HoverChat.Main
